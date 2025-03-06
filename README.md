@@ -14,7 +14,6 @@ This Python script automates interactions with the game "Dofus" on Windows. It u
 ## Requirements
 
 - **Operating System:** Windows
-- **Python:** Version 3.x
 - **Dependencies:**
   - `pywin32`
   - `Pillow`
@@ -40,4 +39,3 @@ This Python script automates interactions with the game "Dofus" on Windows. It u
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ali-r2005/game-bot-script.git
-   cd your-repo-name
